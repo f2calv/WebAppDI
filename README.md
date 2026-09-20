@@ -1,5 +1,9 @@
 # Classic ASP.NET Web Application (.NET Framework) with Dependency Injection
 
+> [!IMPORTANT]
+> This repository has been retired and is no longer maintained. It is retained for historical
+> reference and should not be treated as supported or secure production guidance.
+
 This repository was born out of a need for web/application developers to migrate their somewhat out-dated ASP.NET MVC web application using the .NET Framework to the newest ASP.NET MVC Core release.
 
 .NET Core as a fundamental rule uses dependency injection throughout, and ASP.NET Core is no exception to this rule, and yet a large number of traditional ASP.NET web applications do not use DI.
